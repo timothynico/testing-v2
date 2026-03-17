@@ -351,7 +351,7 @@
     {{-- ── FIX: gunakan json_encode agar Blade tidak salah hitung kurung --}}
     <script>
         const allDendaData = {!! json_encode($dendaJson) !!};
-        const dendaDetailBaseUrl = "{{ url('denda') }}";
+        const dendaDetailBaseUrl = "{{ url('penalty') }}";
     </script>
 @endsection
 
@@ -1065,7 +1065,7 @@
                         },
                         {
                             popover: {
-                                title      : "🎉 {{ __('You're All Set!') }}",
+                                title      : "🎉 {{ __('You are All Set!') }}",
                                 description: "{{ __('You can now monitor and manage customer penalties effectively.') }}" +
                                              "<br><br><strong>{{ __('Tip:') }}</strong> " +
                                              "{{ __('Use the Type filter to focus on a specific penalty category.') }}"
