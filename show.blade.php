@@ -41,9 +41,9 @@
         $penaltyNumber = 'DND-' . str_pad((string) $denda->nidenda, 6, '0', STR_PAD_LEFT);
 
         $statusMap = [
-            'unpaid' => ['cls' => 'bg-danger',         'icon' => 'bi-x-circle',     'label' => 'UNPAID'],
-            'paid'   => ['cls' => 'bg-success',        'icon' => 'bi-check-circle', 'label' => 'PAID'],
-            'waived' => ['cls' => 'bg-info text-dark', 'icon' => 'bi-shield-check', 'label' => 'WAIVED'],
+            'unpaid' => ['cls' => 'bg-danger',         'icon' => 'bi-x-circle',     'label' => __('UNPAID')],
+            'paid'   => ['cls' => 'bg-success',        'icon' => 'bi-check-circle', 'label' => __('PAID')],
+            'waived' => ['cls' => 'bg-info text-dark', 'icon' => 'bi-shield-check', 'label' => __('WAIVED')],
         ];
         $statusInfo = $statusMap[$denda->cstatus] ?? [
             'cls'   => 'bg-secondary',
