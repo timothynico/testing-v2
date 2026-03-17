@@ -28,9 +28,6 @@
     "Notifications": "通知",
     "Mark all as read": "全部标记为已读",
     "View all notifications": "查看所有通知",
-
-
-
     "_Comment_Dashboard": "客户主页面",
     "Dashboard": "仪表板",
     "Real-time overview": "实时概览",
@@ -55,9 +52,6 @@
     "Monitor Invoice": "監控發票",
     "Request Order/Return": "要求訂單/退貨",
     "STATUS": "状态",
-
-
-
     "_Comment_Agreements": "协议页面",
     "Rental Agreements": "租赁协议",
     "Manage rental agreements": "管理租赁协议",
@@ -77,8 +71,6 @@
     "agreement": "协议",
     "agreements": "协议",
     "Showing 0 to 0 of 0 agreements": "显示 0 至 0，共 0 条协议",
-
-
     "_Comment_Agreement_Details": "协议详情页面",
     "Agreement Details": "协议详情",
     "Pallet Rental Agreement": "托盘租赁协议",
@@ -129,8 +121,6 @@
     "Direct Agreement Details": "直接协议详情",
     "Direct Rental Agreement": "直接租赁协议",
     "Direct pallet rental contract between Yanasurya and Customer": "Yanasurya 与客户之间的直接托盘租赁合同",
-
-
     "_Comment_New_Agreement": "创建协议页面",
     "Create": "创建",
     "Agreement Information": "协议信息",
@@ -224,8 +214,6 @@
     "Take Tour": "开始导览",
     "button in the header.": "页眉中的按钮。",
     "Review": "审核",
-
-
     "_Comment_Master_Company": "公司主数据页面",
     "Master Company": "公司主数据",
     "Manage your company database and their warehouses": "管理您的公司数据库及其仓库",
@@ -258,8 +246,6 @@
     "Are you sure you want to delete company": "您确定要删除该公司吗",
     "This will also delete all associated warehouses and their data.": "此操作还将删除所有相关的仓库及其数据。",
     "Delete Company": "删除公司",
-
-
     "_Comment_New_Company": "创建公司页面",
     "Will be generated automatically": "将自动生成",
     "Select Country": "选择国家",
@@ -270,16 +256,12 @@
     "Primary PIC": "主要负责人",
     "Secondary PIC": "次要负责人",
     "Warehouse code will be auto-generated": "仓库代码将自动生成",
-
-
     "_Comment_Edit_Company": "编辑公司页面",
     "Currency": "货币",
     "Bank Account Number": "银行账号",
     "Company Warehouses": "公司仓库",
     "Warehouse Code": "仓库代码",
     "Update Company": "更新公司信息",
-
-
     "_Comment_Company_Detail": "公司详情页面",
     "Edit Company": "编辑公司",
     "Registration Number": "注册编号",
@@ -320,9 +302,6 @@
     "All company information": "所有公司信息",
     "associated warehouses": "关联仓库",
     "All transaction history": "所有交易记录",
-
-
-
     "_Comment_Master_Customer": "客户主数据页面",
     "Customer List": "客户列表",
     "Master Customer": "客户主数据",
@@ -347,7 +326,6 @@
     "This action cannot be undone.": "此操作无法撤销。",
     "Cancel": "取消",
     "Delete": "删除",
-
     "_Comment_Customer_Details": "客户详情页面",
     "Customer Details": "客户详情",
     "General Information": "一般信息",
@@ -399,7 +377,6 @@
     "Created By": "创建者",
     "Last Modified By": "最后修改者",
     "Are you sure you want to delete customer": "您确定要删除该客户吗",
-
     "_Comment_New_Customer": "创建客户页面",
     "Error!": "错误！",
     "Please fix these errors below:": "请修正以下错误：",
@@ -460,8 +437,6 @@
     "Issue Date": "签发日期",
     "Expiry Date": "有效期至",
     "Contact Person": "联系人",
-
-
     "_Comment_Edit_Customer": "编辑客户页面",
     "Company Documents": "公司文件",
     "Current Documents": "当前文件",
@@ -471,8 +446,6 @@
     "Expiring Soon": "即将过期",
     "Upload new files to replace existing documents or add missing ones. Old versions will be archived automatically.": "上传新文件以更换现有文件或添加缺失文件。旧版本将自动归档。",
     "Remove": "移除",
-
-
     "_Comment_Delivery_Monitoring": "运输监控页面",
     "Track and manage delivery notes": "跟踪并管理送货单",
     "All Date": "所有日期",
@@ -499,8 +472,6 @@
     "Return": "返回",
     "Reschedule": "重新安排",
     "DN Created": "已创建送货单",
-
-
     "_Comment_Delivery_Note_Details": "送货单详情页面",
     "Delivery Note Details": "送货单详情",
     "Delivery from": "发货地",
@@ -531,8 +502,6 @@
     "Picked Up": "已取货",
     "Contact Information": "联系信息",
     "Are you sure you want to delete this delivery note? This action cannot be undone.": "您确定要删除此送货单吗？此操作无法撤销。",
-
-
     "_Comment_New_Delivery_Note": "创建送货单页面",
     "Enter delivery notes": "输入送货备注",
     "Select an option": "请选择一个选项",
@@ -599,8 +568,6 @@
     "You now know how to create a delivery note.": "现在您已了解如何创建送货单。",
     "Tip:": "提示：",
     "Fill the form from top to bottom for the smoothest experience.": "从上到下填写表单以获得最顺畅的体验。",
-
-
     "_Comment_New_Goods_Receipt_Note": "创建收货单页面",
     "Goods Receipt": "收货确认单",
     "Receipt Information": "收货信息",
@@ -628,7 +595,6 @@
     "Example Reject Photo": "拒收项目示例照片",
     "This is what a typical reject pallet photo looks like": "这是典型拒收托盘照片的样子",
     "View Example": "查看示例",
-
     "Submit Receipt": "提交收货单",
     "Invalid file type. Please upload JPG or PNG images only.": "文件类型无效。请仅上传 JPG 或 PNG 图片。",
     "File size exceeds 5MB. Please choose a smaller image.": "文件大小超过 5MB。请选择较小的图片。",
@@ -670,8 +636,6 @@
     "Follow the form from top to bottom to avoid missing required sections.": "请从上到下填写表单，以免遗漏必填部分。",
     "Enter any notes about the condition of received goods...": "输入有关所收货物状况的备注...",
     "Delivery date": "送货日期",
-
-
     "_Comment_Request_Email": "请求邮件 (订单/退货) 页面",
     "Generate Email - Order or Pull Pallet": "生成邮件 - 订购或拉回托盘",
     "Generate Request Email - Order or Pull Pallet": "生成请求邮件 - 订购或拉回托盘",
@@ -695,7 +659,7 @@
     "Quantity (Pcs)": "数量 (个)",
     "Enter quantity...": "请输入数量...",
     "Delivery From Warehouse": "倉庫出貨",
-    "Delivery To Warehouse":"送貨至倉庫",
+    "Delivery To Warehouse": "送貨至倉庫",
     "Shipping Address": "收货地址",
     "Pickup Address": "取货地址",
     "Enter address...": "请输入地址...",
@@ -738,11 +702,8 @@
     "Reset All": "全部重置",
     "Delivery From Warehouse (Yanasurya)": "倉庫發貨（Yanasurya)",
     "Delivery To Warehouse (Customer)": "送貨至倉庫（顧客)",
-    "Return From Warehouse (Customer)":"倉庫退貨（顧客）",
-    "Return To Warehouse (Yanasurya)":"返回倉庫（Yanasurya）",
-
-
-
+    "Return From Warehouse (Customer)": "倉庫退貨（顧客）",
+    "Return To Warehouse (Yanasurya)": "返回倉庫（Yanasurya）",
     "_Comment_Logistic_Company_List": "物流公司列表页面",
     "Logistic Company List": "物流公司列表",
     "Master Logistic Company": "物流公司主数据",
@@ -773,14 +734,10 @@
     "Master Data Ready": "主数据准备就绪",
     "You now know how to manage logistic companies.": "您现在已了解如何管理物流公司。",
     "Always register drivers and vehicles under the correct company.": "请务必在正确的公司下注册司机和车辆。",
-
-
     "Comment_Edit_Logistic_Company": "编辑物流公司页面",
     "Edit Logistics Company": "编辑物流公司",
     "Assign Customers": "指派客户",
     "Select which customers can use this logistic company": "选择可以使用此物流公司的客户",
-
-
     "_Comment_Logistic_Company_Details": "物流公司详情页面",
     "Logistic Company Details": "物流公司详情",
     "Logistic Companies": "物流公司",
@@ -808,7 +765,6 @@
     "Truck": "货车",
     "Available": "可用",
     "In Use": "使用中",
-
     "_Comment_New_Logistics_Company": "创建物流公司页面",
     "New Logistics Company": "新物流公司",
     "Logistics Companies": "物流公司",
@@ -823,15 +779,11 @@
     "Car": "小汽车",
     "Pickup Truck": "皮卡车",
     "Van": "厢式货车",
-
-
     "_Comment_Logistics_Company_Detail": "物流公司详情页面",
     "Sender": "发货人",
     "Snd Addr": "发货地址",
     "Receiver": "收货人",
     "Rcv Addr": "收货地址",
-
-
     "_Comment_Master_Marketing": "营销人员主数据页面",
     "Marketing List": "营销人员列表",
     "Manage your marketing team database": "管理您的营销团队数据库",
@@ -845,8 +797,6 @@
     "No marketing found": "未找到营销人员",
     "Try adjusting your search term or add a new marketing": "请尝试调整搜索词或添加新的营销人员",
     "Showing :from to :to of :total marketing|Showing :from to :to of :total marketings": "显示第 :from 至 :to 条，共 :total 条营销人员记录",
-
-
     "_Comment_New_Marketing": "创建营销人员页面",
     "Create New Marketing": "创建新营销人员",
     "Unique marketing code": "唯一营销代码",
@@ -855,9 +805,6 @@
     "Position/Title": "职位/头衔",
     "Placement/Location": "任职地点/位置",
     "Create Marketing": "创建营销人员",
-
-
-
     "_Comment_Marketing_Details": "营销人员详情页面",
     "Marketing Details": "营销人员详情",
     "Inactive": "未激活",
@@ -880,8 +827,6 @@
     "Due Date": "截止日期",
     "Billing Period": "计费周期",
     "Total Amount": "总金额",
-
-
     "_Comment_Master_Pallet_Types": "托盘类型主数据页面",
     "Manage your pallet inventory": "管理您的托盘库存",
     "Pallet Types": "托盘类型",
@@ -898,8 +843,6 @@
     "Lost Price": "丢失赔偿价格",
     "Rental/Day": "租赁/天",
     "Lost": "丢失",
-
-
     "_Comment_New_Pallet": "创建托盘页面",
     "Dimensions (mm)": "尺寸 (mm)",
     "Image & Pricing": "图片与定价",
@@ -909,8 +852,6 @@
     "Damaged Price (Rp)": "损坏赔偿价格 (Rp)",
     "Lost Price (Rp)": "丢失赔偿价格 (Rp)",
     "Create Pallet": "创建托盘",
-
-
     "_Comment_Pallet_Details": "托盘详情页面",
     "Pallets": "托盘",
     "Product Information": "产品信息",
@@ -944,8 +885,6 @@
     "Default pricing applies to all customers": "默认价格适用于所有客户",
     "This shows customer-specific pricing for this pallet type": "显示此托盘类型的客户专属定价",
     "Are you sure you want to delete this pallet type?": "您确定要删除此托盘类型吗？",
-
-
     "_Comment_Change_Password_Details": "修改密码页面",
     "Password Requirements": "密码要求",
     "Minimum 8 characters": "最少 8 个字符",
@@ -955,28 +894,20 @@
     "Confirm New Password": "确认新密码",
     "Change Password": "修改密码",
     "Logout": "退出登录",
-
-
     "_Comment_Confirm_Password_Details": "确认密码页面",
     "This is a secure area of the application. Please confirm your password before continuing.": "这是应用程序的安全区域。请在继续操作前确认您的密码。",
     "Password": "密码",
     "Confirm": "确认",
-
-
     "_Comment_Forgot_Password_Details": "忘记密码页面",
     "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "忘记密码了？没关系。只需告诉我们您的电子邮件地址，我们将为您发送一个密码重置链接，让您可以重新设置新密码。",
     "Email Password Reset Link": "发送密码重置链接",
     "Back to login": "返回登录",
-
-
     "_Comment_Login_Details": "登录页面",
     "Remember me": "记住我",
     "Forgot password?": "忘记密码？",
     "Sign in": "登录",
     "Don't have an account?": "还没有账号？",
     "Register": "注册",
-
-
     "_Comment_Otp_Verify_Details": "OTP 验证页面",
     "Verification Code": "验证码",
     "Enter the 6-digit code sent to your email. Code expires in 5 minutes.": "请输入发送到您邮箱的 6 位验证码。验证码将在 5 分钟后过期。",
@@ -984,22 +915,14 @@
     "Resend verification code": "重新发送验证码",
     "Resend code in": "稍后重新发送",
     "Cancel and sign out": "取消并退出登录",
-
-
     "_Comment_Register_Details": "注册页面",
     "Already have an account?": "已经有账号了？",
-
-
     "_Comment_Reset_Password_Details": "重置密码页面",
     "Reset Password": "重置密码",
-
-
     "_Comment_Verify_Email_Details": "验证邮箱页面",
     "Email Verification": "邮箱验证",
     "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "感谢您的注册！在开始之前，请点击我们刚刚发送到您邮箱的链接来验证您的电子邮件地址。如果您没有收到邮件，我们可以为您重新发送。",
     "A new verification link has been sent to the email address you provided during registration.": "新的验证链接已发送至您注册时提供的电子邮箱地址。",
-
-
     "_Comment_Edit_Profile_Details": "编辑个人资料页面",
     "Profile Information": "个人资料信息",
     "Update your account's profile information and email address": "更新您的账户个人资料和电子邮件地址",
@@ -1013,8 +936,6 @@
     "This action is permanent. All data associated with your account will be removed.": "此操作是永久性的。与您的账户相关的所有数据都将被移除。",
     "Confirm Deletion": "确认删除",
     "Enter your password to permanently delete your account": "请输入您的密码以永久删除账户",
-
-
     "_Comment_Account_Transaction_Report": "账户交易报表页面",
     "Account Transaction Report": "往来账交易对账单",
     "Daily pallet movements and rental charge calculation by pallet type": "按托盘类型统计的每日托盘变动及租赁费用计算",
@@ -1054,9 +975,8 @@
     "You now understand how to analyze daily pallet movements and rental charges.": "您现在已了解如何分析每日托盘变动和租赁费用。",
     "This report is the accounting backbone for monthly billing.": "本报表是月度账单结算的核心会计依据。",
     "Export to Excel": "导出为 Excel",
-    "Export to PDF":"导出为 PDF",
-    "Export to CSV":"导出为 CSV",
-
+    "Export to PDF": "导出为 PDF",
+    "Export to CSV": "导出为 CSV",
     "_Comment_On_Hand_Inventory_Report": "现有库存报表页面",
     "On-hand Inventory": "现有库存",
     "Summary of available pallets by specification and quantity": "按规格和数量汇总的可用托盘摘要",
@@ -1097,8 +1017,6 @@
     "Choose a company from the filter above to view account transactions": "从上方筛选器中选择公司以查看账户交易",
     "No delivery notes or good receipts found": "未找到送货单或收货单",
     "No requests found": "未找到请求",
-
-
     "_Comment_Stock_Movement_Report": "库存变动报表页面",
     "Stock Movement Report": "库存变动报表",
     "Monitor stock in and out movements": "监控库存出入库变动",
@@ -1126,8 +1044,6 @@
     "You’re All Set": "准备就绪",
     "You now understand how stock movements, balances, and totals are calculated.": "您现在已了解库存变动、余额和合计的计算方式。",
     "Tip: This report feeds into financial reconciliation and billing.": "提示：本报表数据用于财务对账和账单结算。",
-
-
     "_Comment_Dashboard_Customer": "客户看板页面",
     "On-Hand Pallet Inventory": "现有托盘库存",
     "In-Transit Pallet Monitoring": "在途托盘监控",
@@ -1184,7 +1100,7 @@
     "Critical Stock Level": "临界库存水平",
     "Medan WH - Only 8,300 pallets remaining": "棉兰仓库 - 仅剩 8,300 个托盘",
     "Medan WH - Only 100 pallets remaining": "棉兰仓库 - 仅剩100个托盘",
-    "PT Unilever - 8,500 pallets overdue":"联合利华公司——8500个托盘逾期未交付",
+    "PT Unilever - 8,500 pallets overdue": "联合利华公司——8500个托盘逾期未交付",
     "View All Alerts": "查看所有告警",
     "Billing Overview (6 Months)": "账单概览 (6个月)",
     "Actual Stock": "实际库存",
@@ -1283,8 +1199,6 @@
     "Latest pallet transactions including deliveries, returns, and transfers between locations": "最新的托盘交易，包括发货、退货以及地点间的调拨",
     "Critical notifications requiring attention including low stock, delays, and quality issues": "需要注意的紧急通知，包括低库存、延迟和质量问题",
     "Monthly billing trends showing pallet rental charges over the past 6 months": "显示过去 6 个月托盘租赁费用的月度账单趋势",
-
-
     "Comment_Delivery_Monitoring": "交货监控页面",
     "This page helps you track and manage all delivery notes and goods receipts in one place. Let’s walk through the main controls.": "此页面可帮助您在一个地方追踪和管理所有的送货单和收货单。让我们来看看主要的操作控件。",
     "Date Filter": "日期筛选",
@@ -1311,8 +1225,6 @@
     "Tour Complete": "导览完成",
     "You now know how to filter, search, and track deliveries.": "您现在已了解如何筛选、搜索和追踪交货。",
     "You can restart this tour anytime using the": "您可以随时重新开始导览，通过点击",
-
-
     "Comment_Order_Return_Monitoring": "订购/退货监控页面",
     "Track and manage order and return requests": "追踪并管理订购与退货请求",
     "Generate Request Email": "生成请求邮件",
@@ -1348,8 +1260,6 @@
     "You’re Ready": "准备就绪",
     "You now know how to monitor and track your pallet order and return requests.": "您现在已了解如何监控和追踪您的托盘订购与退货请求。",
     "Showing 0 to 0 of 0 requests": "显示第 0 至 0 条，共 0 条请求",
-
-
     "Comment_Email_Request": "邮件请求页面",
     "Generate Email - Order or Return Pallet": "生成邮件 - 订购或退还托盘",
     "Generate Request Email - Order or Return Pallet": "生成请求邮件 - 订购或退还托盘",
@@ -1390,8 +1300,6 @@
     "You now know how to generate pallet order or return request emails.": "您现在已了解如何生成托盘订购或退还请求邮件。",
     "Complete the form from top to bottom to ensure the email is generated correctly.": "请从上到下填写表单，以确保邮件正确生成。",
     "or": "或",
-
-
     "_Comment_Invoice_Management": "发票管理页面",
     "Invoice Management": "发票管理",
     "Track and manage customer invoices": "追踪并管理客户发票",
@@ -1421,10 +1329,8 @@
     "invoice": "发票",
     "invoices": "发票",
     "Total Outstanding": "未付总额",
-    "Total Invoices":"發票總額",
+    "Total Invoices": "發票總額",
     "Generate Invoice": "生成发票",
-
-
     "Comment_Invoice_Details": "发票详情页面",
     "Invoice Details": "发票详情",
     "Invoice for": "发票对象",
@@ -1482,8 +1388,6 @@
     "Paid Amount": "已付金额",
     "paid": "已付",
     "remaining": "剩余",
-
-
     "Comment_Monthly_Usage": "月度用量页面",
     "Monitor your monthly pallet usage": "监控您的月度托盘用量",
     "Search period, company...": "搜索期间、公司...",
@@ -1509,8 +1413,6 @@
     "Approved usage records are used for monthly invoice generation.": "已批准的用量记录将用于生成月度发票。",
     "Showing 0 to 0 of 0 records": "显示第 0 至 0 条，共 0 条记录",
     "record": "记录",
-
-
     "Comment_Monthly_Usage_Details": "月度用量详情页面",
     "Monthly Usage Details": "月度用量详情",
     "January 2026": "2026年1月",
@@ -1541,13 +1443,9 @@
     "Are you sure you want to approve this monthly usage report?": "您确定要核准这份月度用量报告吗？",
     "Usage report has been approved successfully!": "用量报告已成功核准！",
     "Your complaint has been submitted successfully. The team will review it shortly.": "您的投诉已成功提交。团队将很快进行审核。",
-
-
     "Comment_Feedback": "反馈页面",
     "Customer support conversations and feedback management": "客户支持会话与反馈管理",
     "Warehouse address": "仓库地址",
-
-
     "Comment_Help_FAQ": "帮助与常见问题选项卡",
     "Help Center": "帮助中心",
     "Get support, find answers, and understand logistics terminology": "获取支持、查找答案并了解物流术语",
@@ -1574,7 +1472,6 @@
     "When creating or editing a delivery note, you can specify the quantity of damaged pallets in the \"Damaged Quantity\" field. You can also add notes describing the damage. For urgent issues, please contact our support team directly via phone or email.": "在创建或编辑送货单时，您可以在“损坏数量”字段中注明损坏托盘的数量。您还可以添加备注来描述损坏情况。如有紧急问题，请直接通过电话或邮件联系我们的支持团队。",
     "What is \"Customer-Liable Pallet\"?": "什么是“客户责任托盘 (Customer-Liable Pallet)”？",
     "Customer-Liable Pallets are the total number of pallets currently chargeable to your account. This includes pallets in your on-hand inventory and pallets delivered to your customers that are still within the agreed liability transition period.": "客户责任托盘是指当前计入您账户费用的托盘总数。这包括您现有库存中的托盘，以及已交付给您的客户但仍处于商定责任过渡期内的托盘。",
-
     "Comment_Help_Glossary": "帮助词汇表选项卡",
     "Logistics Terminology Glossary": "物流术语表",
     "DN (Delivery Note)": "DN (送货单)",
@@ -1597,7 +1494,6 @@
     "A metric indicating how many days the current inventory will last based on average daily usage.": "根据平均每日用量计算的、显示当前库存还能维持多少天的指标。",
     "A third-party provider that handles the transportation and delivery of pallets between locations.": "负责处理地点之间托盘运输和交付的第三方服务商。",
     "A contract between parties outlining the terms of pallet rental, including quantities, pricing, and liability periods.": "各方之间概述托盘租赁条款的合同，包括数量、定价和责任期。",
-
     "Comment_Feedback_Menu": "評論回饋選單",
     "Feedback": "回饋",
     "Feedback & Support": "回饋與支持",
@@ -1613,9 +1509,7 @@
     "Resolved": "已解决",
     "Closed": "已关闭",
     "All Menus": "所有菜单",
-
-    "Order/Return Requests List":"订单/退货申请列表",
-
+    "Order/Return Requests List": "订单/退货申请列表",
     "Welcome": "欢迎",
     "Your Pal for Pallet Pooling": "您的托盘共享伙伴",
     "Powering Pallet Networks.": "驱动托盘网络。",
@@ -1684,5 +1578,20 @@
     "Your data is handled securely": "您的数据将被安全处理",
     "Back to Login": "返回登录",
     "success_header": "您已成功登记！再见，Pal。",
-    "success_subheader": "感谢您对 Yanapal 的关注。"
+    "success_subheader": "感谢您对 Yanapal 的关注。",
+    "Penalty Details": "罚款详情",
+    "Manage customer liable and penalty amount": "管理客户责任方和罚款金额",
+    "Penalty Information": "罚款信息",
+    "Penalty No": "罚款编号",
+    "Penalty Qty": "罚款数量",
+    "Contract": "合同",
+    "Total Price": "总价",
+    "Options are taken from the current customer and related customers in ytbpbhdr/ytbpbdtl tables.": "选项来自当前客户以及 ytbpbhdr/ytbpbdtl 表中的相关客户。",
+    "Component Legend": "组件说明",
+    "Reject at Receiver": "收货方拒收",
+    "Missing at Receiver": "收货方缺失",
+    "Reject@Receiver": "拒收@收货方",
+    "Missing@Receiver": "缺失@收货方",
+    "Edit Customer Liable": "编辑客户责任方",
+    "Customer Liable": "客户责任方"
 }

@@ -28,7 +28,6 @@
     "Notifications": "Notifications",
     "Mark all as read": "Mark all as read",
     "View all notifications": "View all notifications",
-
     "_Comment_Dashboard": "Master Customer Page",
     "Dashboard": "Dashboard",
     "Real-time overview": "Real-time overview",
@@ -52,7 +51,6 @@
     "pallets": "pallets",
     "Monitor Invoice": "Monitor Invoice",
     "Request Order/Return": "Request Order/Return",
-
     "_Comment_Agreements": "Agreements Page",
     "Rental Agreements": "Rental Agreements",
     "Manage rental agreements": "Manage rental agreements",
@@ -72,7 +70,6 @@
     "agreement": "agreement",
     "agreements": "agreements",
     "Showing 0 to 0 of 0 agreements": "Showing 0 to 0 of 0 agreements",
-
     "_Comment_Agreement_Details": "Agreement Details Page",
     "Agreement Details": "Agreement Details",
     "Pallet Rental Agreement": "Pallet Rental Agreement",
@@ -123,7 +120,6 @@
     "Direct Agreement Details": "Direct Agreement Details",
     "Direct Rental Agreement": "Direct Rental Agreement",
     "Direct pallet rental contract between Yanasurya and Customer": "Direct pallet rental contract between Yanasurya and Customer",
-
     "_Comment_New_Agreement": "Create Agreement Page",
     "Create": "Create",
     "Agreement Information": "Agreement Information",
@@ -195,7 +191,6 @@
     "Dates": "Dates",
     "Start and end dates": "Start and end dates",
     "Active, Draft, or Expired": "Active, Draft, or Expired",
-
     "Click to View Details": "Click to View Details",
     "Click any row to view the full agreement details, including:": "Click any row to view the full agreement details, including:",
     "Complete contract terms": "Complete contract terms",
@@ -203,11 +198,9 @@
     "Pricing information": "Pricing information",
     "Transaction history": "Transaction history",
     "Try clicking this row!": "Try clicking this row!",
-
     "Navigate Pages": "Navigate Pages",
     "Use pagination to browse through all your agreements.": "Use pagination to browse through all your agreements.",
     "The system shows 10 agreements per page.": "The system shows 10 agreements per page.",
-
     "Agreement Tour Complete!": "Agreement Tour Complete!",
     "You now know how to:": "You now know how to:",
     "Filter agreements by type": "Filter agreements by type",
@@ -219,7 +212,6 @@
     "You can restart any tour from the": "You can restart any tour from the",
     "Take Tour": "Take Tour",
     "button in the header.": "button in the header.",
-
     "_Comment_Master_Company": "Master Company Page",
     "Master Company": "Master Company",
     "Manage your company database and their warehouses": "Manage your company database and their warehouses",
@@ -252,7 +244,6 @@
     "Are you sure you want to delete company": "Are you sure you want to delete company",
     "This will also delete all associated warehouses and their data.": "This will also delete all associated warehouses and their data.",
     "Delete Company": "Delete Company",
-
     "_Comment_New_Company": "Create Company Page",
     "Will be generated automatically": "Will be generated automatically",
     "Select Country": "Select Country",
@@ -263,14 +254,12 @@
     "Primary PIC": "Primary PIC",
     "Secondary PIC": "Secondary PIC",
     "Warehouse code will be auto-generated": "Warehouse code will be auto-generated",
-
     "_Comment_Edit_Company": "Edit Company Page",
     "Currency": "Currency",
     "Bank Account Number": "Bank Account Number",
     "Company Warehouses": "Company Warehouses",
     "Warehouse Code": "Warehouse Code",
     "Update Company": "Update Company",
-
     "_Comment_Company_Detail": "Detail Company Page",
     "Edit Company": "Edit Company",
     "Registration Number": "Registration Number",
@@ -311,7 +300,6 @@
     "All company information": "All company information",
     "associated warehouses": "associated warehouses",
     "All transaction history": "All transaction history",
-
     "_Comment_Master_Customer": "Master Customer Page",
     "Customer List": "Customer List",
     "Master Customer": "Master Customer",
@@ -336,7 +324,6 @@
     "This action cannot be undone.": "This action cannot be undone.",
     "Cancel": "Cancel",
     "Delete": "Delete",
-
     "_Comment_Customer_Details": "Customer Details Page",
     "Customer Details": "Customer Details",
     "General Information": "General Information",
@@ -388,7 +375,6 @@
     "Created By": "Created By",
     "Last Modified By": "Last Modified By",
     "Are you sure you want to delete customer": "Are you sure you want to delete customer",
-
     "_Comment_New_Customer": "Create Customer Page",
     "Error!": "Error!",
     "Please fix these errors below:": "Please fix these errors below:",
@@ -449,7 +435,6 @@
     "Issue Date": "Issue Date",
     "Expiry Date": "Expiry Date",
     "Contact Person": "Contact Person",
-
     "_Comment_Edit_Customer": "Edit Customer Page",
     "Company Documents": "Company Documents",
     "Current Documents": "Current Documents",
@@ -459,7 +444,6 @@
     "Expiring Soon": "Expiring Soon",
     "Upload new files to replace existing documents or add missing ones. Old versions will be archived automatically.": "Upload new files to replace existing documents or add missing ones. Old versions will be archived automatically.",
     "Remove": "Remove",
-
     "_Comment_Delivery_Monitoring": "Delivery Monitoring Page",
     "Track and manage delivery notes": "Track and manage delivery notes",
     "All Date": "All Date",
@@ -483,7 +467,6 @@
     "Showing 0 to 0 of 0 delivery notes": "Showing 0 to 0 of 0 delivery notes",
     "row": "row",
     "rows": "rows",
-
     "_Comment_Delivery_Note_Details": "Delivery Note Details Page",
     "Delivery Note Details": "Delivery Note Details",
     "Delivery from": "Delivery from",
@@ -514,7 +497,6 @@
     "Picked Up": "Picked Up",
     "Contact Information": "Contact Information",
     "Are you sure you want to delete this delivery note? This action cannot be undone.": "Are you sure you want to delete this delivery note? This action cannot be undone.",
-
     "_Comment_New_Delivery_Note": "Create Delivery Note Page",
     "Enter delivery notes": "Enter delivery notes",
     "Select an option": "Select an option",
@@ -581,7 +563,6 @@
     "You now know how to create a delivery note.": "You now know how to create a delivery note.",
     "Tip:": "Tip:",
     "Fill the form from top to bottom for the smoothest experience.": "Fill the form from top to bottom for the smoothest experience.",
-
     "_Comment_New_Goods_Receipt_Note": "Create Goods Receipt Page",
     "Goods Receipt": "Goods Receipt",
     "Receipt Information": "Receipt Information",
@@ -609,7 +590,6 @@
     "Example Reject Photo": "Example Reject Photo",
     "This is what a typical reject pallet photo looks like": "This is what a typical reject pallet photo looks like",
     "View Example": "View Example",
-
     "Submit Receipt": "Submit Receipt",
     "Invalid file type. Please upload JPG or PNG images only.": "Invalid file type. Please upload JPG or PNG images only.",
     "File size exceeds 5MB. Please choose a smaller image.": "File size exceeds 5MB. Please choose a smaller image.",
@@ -650,7 +630,6 @@
     "Follow the form from top to bottom to avoid missing required sections.": "Follow the form from top to bottom to avoid missing required sections.",
     "Enter any notes about the condition of received goods...": "Enter any notes about the condition of received goods...",
     "Delivery date": "Delivery date",
-
     "_Comment_Request_Email": "Requests Email (Order/Return) Page",
     "Generate Email - Order or Pull Pallet": "Generate Email - Order or Pull Pallet",
     "Generate Request Email - Order or Pull Pallet": "Generate Request Email - Order or Pull Pallet",
@@ -713,7 +692,6 @@
     "This email body is formatted and ready to paste into your email client.": "This email body is formatted and ready to paste into your email client.",
     "Fill in details to generate email body": "Fill in details to generate email body",
     "Reset All": "Reset All",
-
     "_Comment_Logistic_Company_List": "Logistic Company List Page",
     "Logistic Company List": "Logistic Company List",
     "Master Logistic Company": "Master Logistic Company",
@@ -744,12 +722,10 @@
     "Master Data Ready": "Master Data Ready",
     "You now know how to manage logistic companies.": "You now know how to manage logistic companies.",
     "Always register drivers and vehicles under the correct company.": "Always register drivers and vehicles under the correct company.",
-
     "Comment_Edit_Logistic_Company": "Edit Logistic Company Page",
     "Edit Logistics Company": "Edit Logistics Company",
     "Assign Customers": "Assign Customers",
     "Select which customers can use this logistic company": "Select which customers can use this logistic company",
-
     "_Comment_Logistic_Company_Details": "Logistic Company Details Page",
     "Logistic Company Details": "Logistic Company Details",
     "Logistic Companies": "Logistic Companies",
@@ -777,7 +753,6 @@
     "Truck": "Truck",
     "Available": "Available",
     "In Use": "In Use",
-
     "_Comment_New_Logistics_Company": "Create Logistics Company Page",
     "New Logistics Company": "New Logistics Company",
     "Logistics Companies": "Logistics Companies",
@@ -792,13 +767,11 @@
     "Car": "Car",
     "Pickup Truck": "Pickup Truck",
     "Van": "Van",
-
     "_Comment_Logistics_Company_Detail": "Detail Logistics Company Page",
     "Sender": "Sender",
     "Snd Addr": "Snd Addr",
     "Receiver": "Receiver",
     "Rcv Addr": "Rcv Addr",
-
     "_Comment_Master_Marketing": "Master Marketing Page",
     "Marketing List": "Marketing List",
     "Manage your marketing team database": "Manage your marketing team database",
@@ -812,7 +785,6 @@
     "No marketing found": "No marketing found",
     "Try adjusting your search term or add a new marketing": "Try adjusting your search term or add a new marketing",
     "Showing :from to :to of :total marketing|Showing :from to :to of :total marketings": "Showing :from to :to of :total marketing|Showing :from to :to of :total marketings",
-
     "_Comment_New_Marketing": "Create Marketing Page",
     "Create New Marketing": "Create New Marketing",
     "Unique marketing code": "Unique marketing code",
@@ -821,7 +793,6 @@
     "Position/Title": "Position/Title",
     "Placement/Location": "Placement/Location",
     "Create Marketing": "Create Marketing",
-
     "_Comment_Marketing_Details": "Marketing Details Page",
     "Marketing Details": "Marketing Details",
     "Inactive": "Inactive",
@@ -844,7 +815,6 @@
     "Due Date": "Due Date",
     "Billing Period": "Billing Period",
     "Total Amount": "Total Amount",
-
     "_Comment_Master_Pallet_Types": "Master Pallet Types Page",
     "Manage your pallet inventory": "Manage your pallet inventory",
     "Pallet Types": "Pallet Types",
@@ -860,7 +830,6 @@
     "Lost Price": "Lost Price",
     "Rental/Day": "Rental/Day",
     "Lost": "Lost",
-
     "_Comment_New_Pallet": "Create Pallet Page",
     "Dimensions (mm)": "Dimensions (mm)",
     "Image & Pricing": "Image & Pricing",
@@ -870,7 +839,6 @@
     "Damaged Price (Rp)": "Damaged Price (Rp)",
     "Lost Price (Rp)": "Lost Price (Rp)",
     "Create Pallet": "Create Pallet",
-
     "_Comment_Pallet_Details": "Pallet Details Page",
     "Pallets": "Pallets",
     "Product Information": "Product Information",
@@ -904,7 +872,6 @@
     "Default pricing applies to all customers": "Default pricing applies to all customers",
     "This shows customer-specific pricing for this pallet type": "This shows customer-specific pricing for this pallet type",
     "Are you sure you want to delete this pallet type?": "Are you sure you want to delete this pallet type?",
-
     "_Comment_Change_Password_Details": "Change Password Page",
     "Password Requirements": "Password Requirements",
     "Minimum 8 characters": "Minimum 8 characters",
@@ -914,24 +881,20 @@
     "Confirm New Password": "Confirm New Password",
     "Change Password": "Change Password",
     "Logout": "Logout",
-
     "_Comment_Confirm_Password_Details": "Confirm Password Page",
     "This is a secure area of the application. Please confirm your password before continuing.": "This is a secure area of the application. Please confirm your password before continuing.",
     "Password": "Password",
     "Confirm": "Confirm",
-
     "_Comment_Forgot_Password_Details": "Forgot Password Page",
     "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.",
     "Email Password Reset Link": "Email Password Reset Link",
     "Back to login": "Back to login",
-
     "_Comment_Login_Details": "Login Page",
     "Remember me": "Remember me",
     "Forgot password?": "Forgot password?",
     "Sign in": "Sign in",
     "Don't have an account?": "Don't have an account?",
     "Register": "Register",
-
     "_Comment_Otp_Verify_Details": "OTP Verify Page",
     "Verification Code": "Verification Code",
     "Enter the 6-digit code sent to your email. Code expires in 5 minutes.": "Enter the 6-digit code sent to your email. Code expires in 5 minutes.",
@@ -939,18 +902,14 @@
     "Resend verification code": "Resend verification code",
     "Resend code in": "Resend code in",
     "Cancel and sign out": "Cancel and sign out",
-
     "_Comment_Register_Details": "Register Page",
     "Already have an account?": "Already have an account?",
-
     "_Comment_Reset_Password_Details": "Reset Password Page",
     "Reset Password": "Reset Password",
-
     "_Comment_Verify_Email_Details": "Verify Email Page",
     "Email Verification": "Email Verification",
     "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.",
     "A new verification link has been sent to the email address you provided during registration.": "A new verification link has been sent to the email address you provided during registration.",
-
     "_Comment_Edit_Profile_Details": "Edit Profile Page",
     "Profile Information": "Profile Information",
     "Update your account's profile information and email address": "Update your account's profile information and email address",
@@ -964,7 +923,6 @@
     "This action is permanent. All data associated with your account will be removed.": "This action is permanent. All data associated with your account will be removed.",
     "Confirm Deletion": "Confirm Deletion",
     "Enter your password to permanently delete your account": "Enter your password to permanently delete your account",
-
     "_Comment_Account_Transaction_Report": "Account Transaction Report Page",
     "Account Transaction Report": "Account Transaction Report",
     "Daily pallet movements and rental charge calculation by pallet type": "Daily pallet movements and rental charge calculation by pallet type",
@@ -1003,7 +961,6 @@
     "Export this report to Excel, PDF, or CSV — or print it in official accounting format.": "Export this report to Excel, PDF, or CSV — or print it in official accounting format.",
     "You now understand how to analyze daily pallet movements and rental charges.": "You now understand how to analyze daily pallet movements and rental charges.",
     "This report is the accounting backbone for monthly billing.": "This report is the accounting backbone for monthly billing.",
-
     "_Comment_On_Hand_Inventory_Report": "On-Hand Inventory Report Page",
     "On-hand Inventory": "On-hand Inventory",
     "Summary of available pallets by specification and quantity": "Summary of available pallets by specification and quantity",
@@ -1044,7 +1001,6 @@
     "Choose a company from the filter above to view account transactions": "Choose a company from the filter above to view account transactions",
     "No delivery notes or good receipts found": "No delivery notes or good receipts found",
     "No requests found": "No requests found",
-
     "_Comment_Stock_Movement_Report": "Stock Movement Report Page",
     "Stock Movement Report": "Stock Movement Report",
     "Monitor stock in and out movements": "Monitor stock in and out movements",
@@ -1072,7 +1028,6 @@
     "You’re All Set": "You’re All Set",
     "You now understand how stock movements, balances, and totals are calculated.": "You now understand how stock movements, balances, and totals are calculated.",
     "Tip: This report feeds into financial reconciliation and billing.": "Tip: This report feeds into financial reconciliation and billing.",
-
     "_Comment_Dashboard_Customer": "Customer Dashboard Page",
     "On-Hand Pallet Inventory": "On-Hand Pallet Inventory",
     "In-Transit Pallet Monitoring": "In-Transit Pallet Monitoring",
@@ -1226,7 +1181,6 @@
     "Latest pallet transactions including deliveries, returns, and transfers between locations": "Latest pallet transactions including deliveries, returns, and transfers between locations",
     "Critical notifications requiring attention including low stock, delays, and quality issues": "Critical notifications requiring attention including low stock, delays, and quality issues",
     "Monthly billing trends showing pallet rental charges over the past 6 months": "Monthly billing trends showing pallet rental charges over the past 6 months",
-
     "Comment_Delivery_Monitoring": "Delivery Monitoring Page",
     "This page helps you track and manage all delivery notes and goods receipts in one place. Let’s walk through the main controls.": "This page helps you track and manage all delivery notes and goods receipts in one place. Let’s walk through the main controls.",
     "Date Filter": "Date Filter",
@@ -1253,7 +1207,6 @@
     "Tour Complete": "Tour Complete",
     "You now know how to filter, search, and track deliveries.": "You now know how to filter, search, and track deliveries.",
     "You can restart this tour anytime using the": "You can restart this tour anytime using the",
-
     "Comment_Order_Return_Monitoring": "Order/Return Monitoring Page",
     "Track and manage order and return requests": "Track and manage order and return requests",
     "Generate Request Email": "Generate Request Email",
@@ -1290,7 +1243,6 @@
     "You’re Ready": "You’re Ready",
     "You now know how to monitor and track your pallet order and return requests.": "You now know how to monitor and track your pallet order and return requests.",
     "Showing 0 to 0 of 0 requests": "Showing 0 to 0 of 0 requests",
-
     "Comment_Email_Request": "Email Request Page",
     "Generate Email - Order or Return Pallet": "Generate Email - Order or Return Pallet",
     "Generate Request Email - Order or Return Pallet": "Generate Request Email - Order or Return Pallet",
@@ -1333,7 +1285,6 @@
     "You now know how to generate pallet order or return request emails.": "You now know how to generate pallet order or return request emails.",
     "Complete the form from top to bottom to ensure the email is generated correctly.": "Complete the form from top to bottom to ensure the email is generated correctly.",
     "or": "or",
-
     "_Comment_Invoice_Management": "Invoice Management Page",
     "Invoice Management": "Invoice Management",
     "Track and manage customer invoices": "Track and manage customer invoices",
@@ -1363,7 +1314,6 @@
     "invoice": "invoice",
     "invoices": "invoices",
     "Total Outstanding": "Total Outstanding",
-
     "Comment_Invoice_Details": "Invoice Details Page",
     "Invoice Details": "Invoice Details",
     "Invoice for": "Invoice for",
@@ -1421,7 +1371,6 @@
     "Paid Amount": "Paid Amount",
     "paid": "paid",
     "remaining": "remaining",
-
     "Comment_Monthly_Usage": "Monthly Usage Page",
     "Monitor your monthly pallet usage": "Monitor your monthly pallet usage",
     "Search period, company...": "Search period, company...",
@@ -1447,7 +1396,6 @@
     "Approved usage records are used for monthly invoice generation.": "Approved usage records are used for monthly invoice generation.",
     "Showing 0 to 0 of 0 records": "Showing 0 to 0 of 0 records",
     "record": "record",
-
     "Comment_Monthly_Usage_Details": "Monthly Usage Details Page",
     "Monthly Usage Details": "Monthly Usage Details",
     "January 2026": "January 2026",
@@ -1479,11 +1427,9 @@
     "Usage report has been approved successfully!": "Usage report has been approved successfully!",
     "Your complaint has been submitted successfully. The team will review it shortly.": "Your complaint has been submitted successfully. The team will review it shortly.",
     "item": "item",
-
     "Comment_Feedback": "Feedback Page",
     "Customer support conversations and feedback management": "Customer support conversations and feedback management",
     "Warehouse address": "Warehouse address",
-
     "Comment_Help_FAQ": "Help FAQ Tab",
     "Help Center": "Help Center",
     "Get support, find answers, and understand logistics terminology": "Get support, find answers, and understand logistics terminology",
@@ -1510,7 +1456,6 @@
     "When creating or editing a delivery note, you can specify the quantity of damaged pallets in the \"Damaged Quantity\" field. You can also add notes describing the damage. For urgent issues, please contact our support team directly via phone or email.": "When creating or editing a delivery note, you can specify the quantity of damaged pallets in the \"Damaged Quantity\" field. You can also add notes describing the damage. For urgent issues, please contact our support team directly via phone or email.",
     "What is \"Customer-Liable Pallet\"?": "What is \"Customer-Liable Pallet\"?",
     "Customer-Liable Pallets are the total number of pallets currently chargeable to your account. This includes pallets in your on-hand inventory and pallets delivered to your customers that are still within the agreed liability transition period.": "Customer-Liable Pallets are the total number of pallets currently chargeable to your account. This includes pallets in your on-hand inventory and pallets delivered to your customers that are still within the agreed liability transition period.",
-
     "Comment_Help_Glossary": "Help Glossary Tab",
     "Logistics Terminology Glossary": "Logistics Terminology Glossary",
     "DN (Delivery Note)": "DN (Delivery Note)",
@@ -1533,7 +1478,6 @@
     "A metric indicating how many days the current inventory will last based on average daily usage.": "A metric indicating how many days the current inventory will last based on average daily usage.",
     "A third-party provider that handles the transportation and delivery of pallets between locations.": "A third-party provider that handles the transportation and delivery of pallets between locations.",
     "A contract between parties outlining the terms of pallet rental, including quantities, pricing, and liability periods.": "A contract between parties outlining the terms of pallet rental, including quantities, pricing, and liability periods.",
-
     "Welcome": "Welcome",
     "Your Pal for Pallet Pooling": "Your Pal for Pallet Pooling",
     "Powering Pallet Networks.": "Powering Pallet Networks.",
@@ -1602,5 +1546,20 @@
     "Your data is handled securely": "Your data is handled securely",
     "Back to Login": "Back to Login",
     "success_header": "You're on the list! See you later, Pal.",
-    "success_subheader": "Thanks for your interest in Yanapal."
+    "success_subheader": "Thanks for your interest in Yanapal.",
+    "Penalty Details": "Penalty Details",
+    "Manage customer liable and penalty amount": "Manage customer liable and penalty amount",
+    "Penalty Information": "Penalty Information",
+    "Penalty No": "Penalty No",
+    "Penalty Qty": "Penalty Qty",
+    "Contract": "Contract",
+    "Total Price": "Total Price",
+    "Options are taken from the current customer and related customers in ytbpbhdr/ytbpbdtl tables.": "Options are taken from the current customer and related customers in ytbpbhdr/ytbpbdtl tables.",
+    "Component Legend": "Component Legend",
+    "Reject at Receiver": "Reject at Receiver",
+    "Missing at Receiver": "Missing at Receiver",
+    "Reject@Receiver": "Reject@Receiver",
+    "Missing@Receiver": "Missing@Receiver",
+    "Edit Customer Liable": "Edit Customer Liable",
+    "Customer Liable": "Customer Liable"
 }

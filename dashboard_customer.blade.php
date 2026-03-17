@@ -388,37 +388,37 @@
                         <div class="d-flex flex-wrap gap-2" style="font-size: 0.75rem;">
 
                             <div class="d-flex align-items-start gap-1 border rounded px-2 py-1" style="max-width: 220px;">
-                                <span class="badge bg-success mt-1" style="font-size: 0.65rem; min-width: 80px;">On-Hand</span>
+                                <span class="badge bg-success mt-1" style="font-size: 0.65rem; min-width: 80px;">{{ __('On-Hand') }}</span>
                                 <span class="text-muted">{{ __('Good stock physically in warehouse') }}</span>
                             </div>
 
                             <div class="d-flex align-items-start gap-1 border rounded px-2 py-1" style="max-width: 220px;">
-                                <span class="badge bg-primary mt-1" style="font-size: 0.65rem; min-width: 80px;">Transit Out</span>
+                                <span class="badge bg-primary mt-1" style="font-size: 0.65rem; min-width: 80px;">{{ __('Transit Out') }}</span>
                                 <span class="text-muted">{{ __('Sent by you, still within BTD — you remain liable') }}</span>
                             </div>
 
                             <div class="d-flex align-items-start gap-1 border rounded px-2 py-1" style="max-width: 220px;">
-                                <span class="badge bg-warning text-dark mt-1" style="font-size: 0.65rem; min-width: 80px;">Transit OI</span>
+                                <span class="badge bg-warning text-dark mt-1" style="font-size: 0.65rem; min-width: 80px;">{{ __('Transit OI') }}</span>
                                 <span class="text-muted">{{ __('Incoming to you, BTD exceeded — you become liable') }}</span>
                             </div>
 
                             <div class="d-flex align-items-start gap-1 border rounded px-2 py-1" style="max-width: 220px;">
-                                <span class="badge bg-dark mt-1" style="font-size: 0.65rem; min-width: 80px;">Reject at Rcvr</span>
+                                <span class="badge bg-dark mt-1" style="font-size: 0.65rem; min-width: 80px;">{{ __('Reject at Receiver') }}</span>
                                 <span class="text-muted">{{ __('Rejected at receiver\'s warehouse, originated from you') }}</span>
                             </div>
 
                             <div class="d-flex align-items-start gap-1 border rounded px-2 py-1" style="max-width: 220px;">
-                                <span class="badge mt-1" style="font-size: 0.65rem; min-width: 80px; background-color: #7c3aed;">Missing at Rcvr</span>
+                                <span class="badge mt-1" style="font-size: 0.65rem; min-width: 80px; background-color: #7c3aed;">{{ __('Missing at Receiver') }}</span>
                                 <span class="text-muted">{{ __('Quantity missing at receiver per DN — you become liable') }}</span>
                             </div>
 
                             <div class="d-flex align-items-start gap-1 border rounded px-2 py-1 border-danger" style="max-width: 220px;">
-                                <span class="badge bg-danger mt-1" style="font-size: 0.65rem; min-width: 80px;">Sender Liability</span>
+                                <span class="badge bg-danger mt-1" style="font-size: 0.65rem; min-width: 80px;">{{ __('Sender Liability') }}</span>
                                 <span class="text-muted">{{ __('Delivered to you but sender\'s BTD not yet expired — deducted') }}</span>
                             </div>
 
                             <div class="d-flex align-items-start gap-1 border rounded px-2 py-1 border-danger" style="max-width: 220px;">
-                                <span class="badge bg-secondary mt-1" style="font-size: 0.65rem; min-width: 80px;">Reject (On-Hand)</span>
+                                <span class="badge bg-secondary mt-1" style="font-size: 0.65rem; min-width: 80px;">{{ __('Reject (On-Hand)') }}</span>
                                 <span class="text-muted">{{ __('Reject stock in your warehouse, sender\'s responsibility — deducted') }}</span>
                             </div>
 
@@ -431,19 +431,19 @@
                                 <i class="bi bi-calculator me-1 text-primary"></i>
                                 <span class="fw-semibold">{{ __('Formula:') }}</span>
                             </span>
-                            <span class="badge bg-success" style="font-size: 0.68rem;">On-Hand</span>
+                            <span class="badge bg-success" style="font-size: 0.68rem;">{{ __('On-Hand') }}</span>
                             <span class="fw-bold">+</span>
-                            <span class="badge bg-primary" style="font-size: 0.68rem;">Transit Out</span>
+                            <span class="badge bg-primary" style="font-size: 0.68rem;">{{ __('Transit Out') }}</span>
                             <span class="fw-bold">+</span>
-                            <span class="badge bg-warning text-dark" style="font-size: 0.68rem;">Transit OI</span>
+                            <span class="badge bg-warning text-dark" style="font-size: 0.68rem;">{{ __('Transit OI') }}</span>
                             <span class="fw-bold">+</span>
-                            <span class="badge bg-dark" style="font-size: 0.68rem;">Reject@Rcvr</span>
+                            <span class="badge bg-dark" style="font-size: 0.68rem;">{{ __('Reject@Receiver') }}</span>
                             <span class="fw-bold">+</span>
-                            <span class="badge" style="font-size: 0.68rem; background-color: #7c3aed;">Missing@Rcvr</span>
+                            <span class="badge" style="font-size: 0.68rem; background-color: #7c3aed;">{{ __('Missing@Receiver') }}</span>
                             <span class="fw-bold">−</span>
-                            <span class="badge bg-danger" style="font-size: 0.68rem;">Sender Liability</span>
+                            <span class="badge bg-danger" style="font-size: 0.68rem;">{{ __('Sender Liability') }}</span>
                             <span class="fw-bold">−</span>
-                            <span class="badge bg-secondary" style="font-size: 0.68rem;">Reject (On-Hand)</span>
+                            <span class="badge bg-secondary" style="font-size: 0.68rem;">{{ __('Reject (On-Hand)') }}</span>
                         </div>
                     </div>
                     {{-- ═══ end Legend ═══ --}}

@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
-@section('title', __('Detail Denda'))
+@section('title', __('Penalty Details'))
 
 @section('header-left')
     <div>
-        <h2 class="h5 fw-semibold mb-0">{{ __('Detail Denda') }}</h2>
-        <span class="text-muted small">{{ __('Kelola customer liable dan nominal denda') }}</span>
+        <h2 class="h5 fw-semibold mb-0">{{ __('Penalty Details') }}</h2>
+        <span class="text-muted small">{{ __('Manage customer liable and penalty amount') }}</span>
     </div>
 @endsection
 
@@ -19,23 +19,23 @@
 
     <div class="card mb-3">
         <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
-            <span><i class="bi bi-file-text me-2"></i>{{ __('Informasi Denda') }}</span>
+            <span><i class="bi bi-file-text me-2"></i>{{ __('Penalty Information') }}</span>
             <a href="{{ route('denda.index') }}" class="btn btn-sm btn-light">
-                <i class="bi bi-arrow-left me-1"></i>{{ __('Kembali ke List') }}
+                <i class="bi bi-arrow-left me-1"></i>{{ __('Back to List') }}
             </a>
         </div>
         <div class="card-body">
             <div class="row g-3">
                 <div class="col-md-3">
-                    <small class="text-muted d-block">{{ __('No Denda') }}</small>
+                    <small class="text-muted d-block">{{ __('Penalty No') }}</small>
                     <strong>DND-{{ str_pad((string) $denda->nidenda, 6, '0', STR_PAD_LEFT) }}</strong>
                 </div>
                 <div class="col-md-3">
-                    <small class="text-muted d-block">{{ __('Jenis') }}</small>
+                    <small class="text-muted d-block">{{ __('Type') }}</small>
                     <span class="badge bg-secondary text-uppercase">{{ $denda->cjenis }}</span>
                 </div>
                 <div class="col-md-3">
-                    <small class="text-muted d-block">{{ __('Qty Denda') }}</small>
+                    <small class="text-muted d-block">{{ __('Penalty Qty') }}</small>
                     <strong>{{ number_format((float) ($denda->nqty_denda ?? 0), 0, ',', '.') }}</strong>
                 </div>
                 <div class="col-md-3">
@@ -59,15 +59,15 @@
                 </div>
 
                 <div class="col-md-4">
-                    <small class="text-muted d-block">{{ __('Kontrak') }}</small>
+                    <small class="text-muted d-block">{{ __('Contract') }}</small>
                     <strong>{{ $denda->cnokontrak ?? '-' }}</strong>
                 </div>
                 <div class="col-md-4">
-                    <small class="text-muted d-block">{{ __('Nominal') }}</small>
+                    <small class="text-muted d-block">{{ __('Amount') }}</small>
                     <strong>Rp {{ number_format((float) ($denda->nnominal ?? 0), 0, ',', '.') }}</strong>
                 </div>
                 <div class="col-md-4">
-                    <small class="text-muted d-block">{{ __('Total Harga') }}</small>
+                    <small class="text-muted d-block">{{ __('Total Price') }}</small>
                     <strong>Rp {{ number_format((float) ($denda->ntotalharga ?? 0), 0, ',', '.') }}</strong>
                 </div>
             </div>
@@ -95,12 +95,12 @@
                             <div class="invalid-feedback">{{ $message }}</div>
                         @enderror
                         <small class="text-muted">
-                            {{ __('Pilihan diambil dari customer saat ini dan customer terkait pada tabel ytbpbhdr/ytbpbdtl.') }}
+                            {{ __('Options are taken from the current customer and related customers in ytbpbhdr/ytbpbdtl tables.') }}
                         </small>
                     </div>
 
                     <button class="btn btn-success" type="submit">
-                        <i class="bi bi-save me-1"></i>{{ __('Simpan Perubahan') }}
+                        <i class="bi bi-save me-1"></i>{{ __('Save Changes') }}
                     </button>
                 </form>
             </div>
