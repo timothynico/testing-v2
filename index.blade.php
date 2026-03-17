@@ -351,6 +351,7 @@
     {{-- ── FIX: gunakan json_encode agar Blade tidak salah hitung kurung --}}
     <script>
         const allDendaData = {!! json_encode($dendaJson) !!};
+        const dendaDetailBaseUrl = "{{ url('denda') }}";
     </script>
 @endsection
 
@@ -701,12 +702,13 @@
 
                 updateColumnVisibility();
 
-                // Row click → modal
+                // Row click → halaman detail
                 document.querySelectorAll('.denda-row-clickable').forEach(row => {
                     row.addEventListener('click', function () {
                         const id   = this.getAttribute('data-denda-id');
-                        const item = allDendaData.find(d => String(d.id) === String(id));
-                        if (item) openDetailModal(item);
+                        if (id) {
+                            window.location.href = `${dendaDetailBaseUrl}/${id}`;
+                        }
                     });
                 });
             }
