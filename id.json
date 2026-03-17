@@ -28,9 +28,6 @@
     "Notifications": "Notifikasi",
     "Mark all as read": "Tandai semua sebagai dibaca",
     "View all notifications": "Lihat semua notifikasi",
-
-
-
     "_Comment_Dashboard": "Master Customer Page",
     "Dashboard": "Dasbor",
     "Real-time overview": "Peninjauan waktu nyata",
@@ -52,8 +49,6 @@
     "View All": "Lihat Semua",
     "Top Customers": "Pelanggan Teratas",
     "pallets": "palet",
-
-
     "_Comment_Agreements": "Agreements Page",
     "Rental Agreements": "Perjanjian Sewa",
     "Manage rental agreements": "Kelola perjanjian sewa",
@@ -73,8 +68,6 @@
     "agreement": "perjanjian",
     "agreements": "perjanjian",
     "Showing 0 to 0 of 0 agreements": "Menampilkan 0 sampai 0 dari 0 perjanjian",
-
-
     "_Comment_Agreement_Details": "Agreement Details Page",
     "Agreement Details": "Detail Perjanjian",
     "Pallet Rental Agreement": "Perjanjian Sewa Palet",
@@ -125,8 +118,6 @@
     "Direct Agreement Details": "Detail Perjanjian Langsung",
     "Direct Rental Agreement": "Perjanjian Sewa Langsung",
     "Direct pallet rental contract between Yanasurya and Customer": "Kontrak sewa pallet langsung antara Yanasurya dan Pelanggan",
-
-
     "_Comment_New_Agreement": "Create Agreement Page",
     "Create": "Buat",
     "Agreement Information": "Informasi Perjanjian",
@@ -219,8 +210,6 @@
     "You can restart any tour from the": "Anda dapat memulai ulang tur kapan saja dari tombol",
     "Take Tour": "Take Tour",
     "button in the header.": "di bagian header.",
-
-
     "_Comment_Master_Company": "Master Company Page",
     "Master Company": "Master Perusahaan",
     "Manage your company database and their warehouses": "Kelola database perusahaan Anda beserta gudangnya",
@@ -253,8 +242,6 @@
     "Are you sure you want to delete company": "Apakah Anda yakin ingin menghapus perusahaan",
     "This will also delete all associated warehouses and their data.": "Tindakan ini juga akan menghapus semua gudang terkait beserta datanya.",
     "Delete Company": "Hapus Perusahaan",
-
-
     "_Comment_New_Company": "Create Company Page",
     "Will be generated automatically": "Akan dibuat secara otomatis",
     "Select Country": "Pilih Negara",
@@ -265,16 +252,12 @@
     "Primary PIC": "PIC Utama",
     "Secondary PIC": "PIC Cadangan",
     "Warehouse code will be auto-generated": "Kode gudang akan dibuat secara otomatis",
-
-
     "_Comment_Edit_Company": "Edit Company Page",
     "Currency": "Mata Uang",
     "Bank Account Number": "Nomor Rekening Bank",
     "Company Warehouses": "Gudang Perusahaan",
     "Warehouse Code": "Kode Gudang",
     "Update Company": "Perbarui Perusahaan",
-
-
     "_Comment_Company_Detail": "Detail Company Page",
     "Edit Company": "Edit Perusahaan",
     "Registration Number": "Nomor Registrasi",
@@ -315,9 +298,6 @@
     "All company information": "Semua informasi perusahaan",
     "associated warehouses": "gudang terkait",
     "All transaction history": "Semua riwayat transaksi",
-
-
-
     "_Comment_Master_Customer": "Master Customer Page",
     "Customer List": "Daftar Pelanggan",
     "Master Customer": "Master Pelanggan",
@@ -342,7 +322,6 @@
     "This action cannot be undone.": "Tindakan ini tidak dapat dibatalkan.",
     "Cancel": "Batal",
     "Delete": "Hapus",
-
     "_Comment_Customer_Details": "Customer Details Page",
     "Customer Details": "Detail Pelanggan",
     "General Information": "Informasi Umum",
@@ -394,7 +373,6 @@
     "Created By": "Dibuat Oleh",
     "Last Modified By": "Terakhir Diubah Oleh",
     "Are you sure you want to delete customer": "Apakah Anda yakin ingin menghapus pelanggan ini",
-
     "_Comment_New_Customer": "Create Customer Page",
     "Error!": "Error!",
     "Please fix these errors below:": "Silakan perbaiki kesalahan berikut:",
@@ -455,8 +433,6 @@
     "Issue Date": "Tanggal Terbit",
     "Expiry Date": "Tanggal Kedaluwarsa",
     "Contact Person": "Kontak Person",
-
-
     "_Comment_Edit_Customer": "Edit Customer Page",
     "Company Documents": "Dokumen Perusahaan",
     "Current Documents": "Dokumen Saat Ini",
@@ -466,8 +442,6 @@
     "Expiring Soon": "Segera Kedaluwarsa",
     "Upload new files to replace existing documents or add missing ones. Old versions will be archived automatically.": "Unggah file baru untuk mengganti dokumen yang ada atau menambahkan yang belum ada. Versi lama akan diarsipkan secara otomatis.",
     "Remove": "Hapus",
-
-
     "_Comment_Delivery_Monitoring": "Delivery Monitoring Page",
     "Track and manage delivery notes": "Lacak dan kelola surat jalan",
     "All Date": "Semua Tanggal",
@@ -491,8 +465,6 @@
     "Showing 0 to 0 of 0 delivery notes": "Menampilkan 0 sampai 0 dari 0 surat jalan",
     "row": "baris",
     "rows": "baris",
-
-
     "_Comment_Delivery_Note_Details": "Delivery Note Details Page",
     "Delivery Note Details": "Detail Surat Jalan",
     "Delivery from": "Pengiriman dari",
@@ -523,8 +495,6 @@
     "Picked Up": "Diambil",
     "Contact Information": "Informasi Kontak",
     "Are you sure you want to delete this delivery note? This action cannot be undone.": "Apakah Anda yakin ingin menghapus surat jalan ini? Tindakan ini tidak dapat dibatalkan.",
-
-
     "_Comment_New_Delivery_Note": "Create Delivery Note Page",
     "Enter delivery notes": "Masukkan catatan pengiriman",
     "Select an option": "Pilih opsi",
@@ -591,8 +561,6 @@
     "You now know how to create a delivery note.": "Sekarang Anda tahu cara membuat surat jalan.",
     "Tip:": "Tips:",
     "Fill the form from top to bottom for the smoothest experience.": "Isi formulir dari atas ke bawah untuk pengalaman yang lebih lancar.",
-
-
     "_Comment_New_Goods_Receipt_Note": "Create Goods Receipt Page",
     "Goods Receipt": "Bukti Penerimaan Barang",
     "Receipt Information": "Informasi Penerimaan",
@@ -620,7 +588,6 @@
     "Example Reject Photo": "Contoh Foto Barang Ditolak",
     "This is what a typical reject pallet photo looks like": "Ini adalah contoh tampilan foto pallet yang ditolak",
     "View Example": "Lihat Contoh",
-
     "Submit Receipt": "Kirim Penerimaan",
     "Invalid file type. Please upload JPG or PNG images only.": "Tipe file tidak valid. Harap unggah gambar JPG atau PNG saja.",
     "File size exceeds 5MB. Please choose a smaller image.": "Ukuran file melebihi 5MB. Pilih gambar yang lebih kecil.",
@@ -662,8 +629,6 @@
     "Follow the form from top to bottom to avoid missing required sections.": "Ikuti formulir dari atas ke bawah untuk agar tidak melewatkan bagian yang diperlukan.",
     "Enter any notes about the condition of received goods...": "Masukkan catatan tentang kondisi barang yang diterima...",
     "Delivery date": "Tanggal pengiriman",
-
-
     "_Comment_Request_Email": "Requests Email (Order/Return) Page",
     "Generate Email - Order or Pull Pallet": "Buat Email - Pesan atau Tarik Palet",
     "Generate Request Email - Order or Pull Pallet": "Buat Email Permintaan - Pesan atau Tarik Palet",
@@ -726,9 +691,6 @@
     "This email body is formatted and ready to paste into your email client.": "Isi email ini telah diformat dan siap ditempelkan ke klien email Anda.",
     "Fill in details to generate email body": "Isi detail untuk menghasilkan isi email",
     "Reset All": "Reset Semua",
-
-
-
     "_Comment_Logistic_Company_List": "Logistic Company List Page",
     "Logistic Company List": "Daftar Perusahaan Logistik",
     "Master Logistic Company": "Master Perusahaan Logistik",
@@ -759,14 +721,10 @@
     "Master Data Ready": "Master Data Siap",
     "You now know how to manage logistic companies.": "Sekarang Anda sudah tahu cara mengelola perusahaan logistik.",
     "Always register drivers and vehicles under the correct company.": "Selalu daftarkan pengemudi dan kendaraan di bawah perusahaan yang benar.",
-
-
     "Comment_Edit_Logistic_Company": "Edit Logistic Company Page",
     "Edit Logistics Company": "Edit Perusahaan Logistik",
     "Assign Customers": "Pilih Pelanggan",
     "Select which customers can use this logistic company": "Pilih pelanggan mana yang dapat menggunakan perusahaan logistik ini",
-
-
     "_Comment_Logistic_Company_Details": "Logistic Company Details Page",
     "Logistic Company Details": "Detail Perusahaan Logistik",
     "Logistic Companies": "Perusahaan Logistik",
@@ -794,7 +752,6 @@
     "Truck": "Truk",
     "Available": "Tersedia",
     "In Use": "Sedang Digunakan",
-
     "_Comment_New_Logistics_Company": "Create Logistics Company Page",
     "New Logistics Company": "Perusahaan Logistik Baru",
     "Logistics Companies": "Perusahaan Logistik",
@@ -809,15 +766,11 @@
     "Car": "Mobil",
     "Pickup Truck": "Truk Pickup",
     "Van": "Van",
-
-
     "_Comment_Logistics_Company_Detail": "Detail Logistics Company Page",
     "Sender": "Pengirim",
     "Snd Addr": "Alamat Pengirim",
     "Receiver": "Penerima",
     "Rcv Addr": "Alamat Penerima",
-
-
     "_Comment_Master_Marketing": "Master Marketing Page",
     "Marketing List": "Daftar Pemasaran",
     "Manage your marketing team database": "Kelola basis data tim marketing Anda",
@@ -831,8 +784,6 @@
     "No marketing found": "Pemasaran tidak ditemukan",
     "Try adjusting your search term or add a new marketing": "Coba sesuaikan kata pencarian atau tambahkan marketing baru",
     "Showing :from to :to of :total marketing|Showing :from to :to of :total marketings": "Menampilkan :from sampai :to dari :total marketing",
-
-
     "_Comment_New_Marketing": "Create Marketing Page",
     "Create New Marketing": "Buat Pemasaran Baru",
     "Unique marketing code": "Kode Pemasaran Unik",
@@ -841,9 +792,6 @@
     "Position/Title": "Jabatan/Posisi",
     "Placement/Location": "Penempatan/Lokasi",
     "Create Marketing": "Buat Pemasaran",
-
-
-
     "_Comment_Marketing_Details": "Marketing Details Page",
     "Marketing Details": "Detail Pemasaran",
     "Inactive": "Tidak Aktif",
@@ -866,8 +814,6 @@
     "Due Date": "Tanggal Jatuh Tempo",
     "Billing Period": "Periode Tagihan",
     "Total Amount": "Jumlah Total",
-
-
     "_Comment_Master_Pallet_Types": "Master Pallet Types Page",
     "Manage your pallet inventory": "Kelola inventaris palet Anda",
     "Pallet Types": "Jenis Palet",
@@ -884,8 +830,6 @@
     "Lost Price": "Harga Hilang",
     "Rental/Day": "Sewa/Hari",
     "Lost": "Hilang",
-
-
     "_Comment_New_Pallet": "Create Pallet Page",
     "Dimensions (mm)": "Dimensi (mm)",
     "Image & Pricing": "Gambar & Harga",
@@ -895,8 +839,6 @@
     "Damaged Price (Rp)": "Harga Rusak (Rp)",
     "Lost Price (Rp)": "Harga Hilang (Rp)",
     "Create Pallet": "Buat Pallet",
-
-
     "_Comment_Pallet_Details": "Pallet Details Page",
     "Pallets": "Palet",
     "Product Information": "Informasi Produk",
@@ -930,8 +872,6 @@
     "Default pricing applies to all customers": "Harga default berlaku untuk semua pelanggan",
     "This shows customer-specific pricing for this pallet type": "Ini menampilkan harga spesifik pelanggan untuk jenis pallet ini",
     "Are you sure you want to delete this pallet type?": "Apakah Anda yakin ingin menghapus jenis pallet ini?",
-
-
     "_Comment_Change_Password_Details": "Change Password Page",
     "Password Requirements": "Persyaratan Kata Sandi",
     "Minimum 8 characters": "Minimal 8 karakter",
@@ -941,28 +881,20 @@
     "Confirm New Password": "Konfirmasi Kata Sandi Baru",
     "Change Password": "Ubah Kata Sandi",
     "Logout": "Keluar",
-
-
     "_Comment_Confirm_Password_Details": "Confirm Password Page",
     "This is a secure area of the application. Please confirm your password before continuing.": "Ini adalah area aman dari aplikasi. Silakan konfirmasi kata sandi Anda sebelum melanjutkan.",
     "Password": "Kata Sandi",
     "Confirm": "Konfirmasi",
-
-
     "_Comment_Forgot_Password_Details": "Forgot Password Page",
     "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Lupa kata sandi? Tidak masalah. Cukup masukkan alamat email Anda dan kami akan mengirimkan tautan untuk mengatur ulang kata sandi agar Anda dapat membuat yang baru.",
     "Email Password Reset Link": "Kirim Tautan Reset Kata Sandi",
     "Back to login": "Kembali ke Login",
-
-
     "_Comment_Login_Details": "Login Page",
     "Remember me": "Ingat saya",
     "Forgot password?": "Lupa kata sandi?",
     "Sign in": "Masuk",
     "Don't have an account?": "Belum punya akun?",
     "Register": "Daftar",
-
-
     "_Comment_Otp_Verify_Details": "OTP Verify Page",
     "Verification Code": "Kode Verifikasi",
     "Enter the 6-digit code sent to your email. Code expires in 5 minutes.": "Masukkan kode 6 digit yang dikirim ke email Anda. Kode akan kedaluwarsa dalam 5 menit.",
@@ -970,22 +902,14 @@
     "Resend verification code": "Kirim ulang kode verifikasi",
     "Resend code in": "Kirim ulang kode dalam",
     "Cancel and sign out": "Batal dan keluar",
-
-
     "_Comment_Register_Details": "Register Page",
     "Already have an account?": "Sudah punya akun?",
-
-
     "_Comment_Reset_Password_Details": "Reset Password Page",
     "Reset Password": "Atur Ulang Kata Sandi",
-
-
     "_Comment_Verify_Email_Details": "Verify Email Page",
     "Email Verification": "Verifikasi Email",
     "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Terima kasih telah mendaftar! Sebelum memulai, silakan verifikasi alamat email Anda dengan mengklik tautan yang baru saja kami kirimkan. Jika Anda belum menerima email tersebut, kami dengan senang hati akan mengirimkannya kembali.",
     "A new verification link has been sent to the email address you provided during registration.": "Tautan verifikasi baru telah dikirim ke alamat email yang Anda gunakan saat pendaftaran.",
-
-
     "_Comment_Edit_Profile_Details": "Edit Profile Page",
     "Profile Information": "Informasi Profil",
     "Update your account's profile information and email address": "Perbarui informasi profil dan alamat email akun Anda",
@@ -999,8 +923,6 @@
     "This action is permanent. All data associated with your account will be removed.": "Tindakan ini bersifat permanen. Semua data yang terkait dengan akun Anda akan dihapus.",
     "Confirm Deletion": "Konfirmasi Penghapusan",
     "Enter your password to permanently delete your account": "Masukkan kata sandi Anda untuk menghapus akun secara permanen",
-
-
     "_Comment_Account_Transaction_Report": "Account Transaction Report Page",
     "Account Transaction Report": "Laporan Transaksi Akun",
     "Daily pallet movements and rental charge calculation by pallet type": "Pergerakan pallet harian dan perhitungan biaya sewa berdasarkan jenis pallet",
@@ -1039,8 +961,6 @@
     "Export this report to Excel, PDF, or CSV — or print it in official accounting format.": "Ekspor laporan ini ke Excel, PDF, atau CSV — atau cetak dalam format akuntansi resmi.",
     "You now understand how to analyze daily pallet movements and rental charges.": "Sekarang Anda memahami cara menganalisis pergerakan pallet harian dan biaya sewa.",
     "This report is the accounting backbone for monthly billing.": "Laporan ini merupakan tulang punggung akuntansi untuk penagihan bulanan.",
-
-
     "_Comment_On_Hand_Inventory_Report": "On-Hand Inventory Report Page",
     "On-hand Inventory": "Inventaris On-Hand",
     "Summary of available pallets by specification and quantity": "Ringkasan pallet tersedia berdasarkan spesifikasi dan jumlah",
@@ -1081,8 +1001,6 @@
     "Choose a company from the filter above to view account transactions": "Pilih perusahaan dari filter di atas untuk melihat transaksi akun",
     "No delivery notes or good receipts found": "Tidak ditemukan catatan pengiriman atau penerimaan barang",
     "No requests found": "Tidak ditemukan permintaan",
-
-
     "_Comment_Stock_Movement_Report": "Stock Movement Report Page",
     "Stock Movement Report": "Laporan Pergerakan Stok",
     "Monitor stock in and out movements": "Pantau pergerakan stok masuk dan keluar",
@@ -1110,8 +1028,6 @@
     "You’re All Set": "Selesai",
     "You now understand how stock movements, balances, and totals are calculated.": "Sekarang Anda memahami bagaimana pergerakan stok, saldo, dan total dihitung.",
     "Tip: This report feeds into financial reconciliation and billing.": "Tips: Laporan ini digunakan untuk rekonsiliasi keuangan dan penagihan.",
-
-
     "_Comment_Dashboard_Customer": "Customer Dashboard Page",
     "On-Hand Pallet Inventory": "Persediaan Palet Tersedia",
     "In-Transit Pallet Monitoring": "Pemantauan Palet Dalam Pengiriman",
@@ -1265,8 +1181,6 @@
     "Latest pallet transactions including deliveries, returns, and transfers between locations": "Transaksi palet terbaru termasuk pengiriman, pengembalian, dan transfer antar lokasi",
     "Critical notifications requiring attention including low stock, delays, and quality issues": "Notifikasi kritis yang membutuhkan perhatian termasuk stok rendah, keterlambatan, dan masalah kualitas",
     "Monthly billing trends showing pallet rental charges over the past 6 months": "Tren penagihan bulanan yang menunjukkan biaya sewa palet selama 6 bulan terakhir",
-
-
     "Comment_Delivery_Monitoring": "Delivery Monitoring Page",
     "This page helps you track and manage all delivery notes and goods receipts in one place. Let’s walk through the main controls.": "Halaman ini membantu Anda melacak dan mengelola semua surat jalan dan penerimaan barang dalam satu tempat. Mari kita lihat kontrol utamanya.",
     "Date Filter": "Filter Tanggal",
@@ -1293,8 +1207,6 @@
     "Tour Complete": "Tur Selesai",
     "You now know how to filter, search, and track deliveries.": "Sekarang Anda sudah tahu cara memfilter, mencari, dan memantau pengiriman.",
     "You can restart this tour anytime using the": "Anda dapat memulai ulang tur ini kapan saja menggunakan",
-
-
     "Comment_Order_Return_Monitoring": "Order/Return Monitoring Page",
     "Track and manage order and return requests": "Lacak dan kelola permintaan pesanan dan pengembalian",
     "Generate Request Email": "Buat Email Permintaan",
@@ -1330,8 +1242,6 @@
     "You’re Ready": "Siap!",
     "You now know how to monitor and track your pallet order and return requests.": "Sekarang Anda sudah tahu cara memantau dan melacak permintaan order dan return palet.",
     "Showing 0 to 0 of 0 requests": "Menampilkan 0 sampai 0 dari 0 permintaan",
-
-
     "Comment_Email_Request": "Email Request Page",
     "Generate Email - Order or Return Pallet": "Buat Email - Order atau Return Pallet",
     "Generate Request Email - Order or Return Pallet": "Buat Email Permintaan - Order atau Return Pallet",
@@ -1374,8 +1284,6 @@
     "You now know how to generate pallet order or return request emails.": "Sekarang Anda sudah tahu cara membuat email permintaan order atau retur palet.",
     "Complete the form from top to bottom to ensure the email is generated correctly.": "Lengkapi formulir dari atas ke bawah agar email dapat dibuat dengan benar.",
     "or": "atau",
-
-
     "_Comment_Invoice_Management": "Invoice Management Page",
     "Invoice Management": "Manajemen Invoice",
     "Track and manage customer invoices": "Melacak dan mengelola invoice pelanggan",
@@ -1405,8 +1313,6 @@
     "invoice": "invoice",
     "invoices": "invoice",
     "Total Outstanding": "Total Tertunda",
-
-
     "Comment_Invoice_Details": "Invoice Details Page",
     "Invoice Details": "Detail Invoice",
     "Invoice for": "Invoice untuk",
@@ -1464,8 +1370,6 @@
     "Paid Amount": "Jumlah Dibayar",
     "paid": "dibayar",
     "remaining": "sisa",
-
-
     "Comment_Monthly_Usage": "Monthly Usage Page",
     "Monitor your monthly pallet usage": "Pantau penggunaan palet bulanan Anda",
     "Search period, company...": "Cari periode, perusahaan...",
@@ -1491,8 +1395,6 @@
     "Approved usage records are used for monthly invoice generation.": "Data penggunaan yang disetujui digunakan untuk pembuatan invoice bulanan.",
     "Showing 0 to 0 of 0 records": "Menampilkan 0 sampai 0 dari 0 catatan",
     "record": "catatan",
-
-
     "Comment_Monthly_Usage_Details": "Monthly Usage Details Page",
     "Monthly Usage Details": "Detail Penggunaan Bulanan",
     "January 2026": "Januari 2026",
@@ -1523,13 +1425,9 @@
     "Are you sure you want to approve this monthly usage report?": "Apakah Anda yakin ingin menyetujui laporan penggunaan bulanan ini?",
     "Usage report has been approved successfully!": "Laporan penggunaan telah disetujui dengan sukses!",
     "Your complaint has been submitted successfully. The team will review it shortly.": "Keluhan Anda telah dikirimkan dengan sukses. Tim akan meninjau keluhan tersebut segera.",
-
-
     "Comment_Feedback": "Feedback Page",
     "Customer support conversations and feedback management": "Bantuan percakapan dukungan pelanggan dan manajemen feedback",
     "Warehouse address": "Alamat gudang",
-
-
     "Comment_Help_FAQ": "Help FAQ Tab",
     "Help Center": "Pusat Bantuan",
     "Get support, find answers, and understand logistics terminology": "Dapatkan dukungan, temukan jawaban, dan pahami istilah logistik",
@@ -1556,8 +1454,6 @@
     "When creating or editing a delivery note, you can specify the quantity of damaged pallets in the \"Damaged Quantity\" field. You can also add notes describing the damage. For urgent issues, please contact our support team directly via phone or email.": "Saat membuat atau mengedit delivery note, Anda dapat mengisi jumlah pallet rusak pada field \"Damaged Quantity\". Anda juga dapat menambahkan catatan yang menjelaskan kerusakan. Untuk kasus mendesak, silakan hubungi tim support kami langsung melalui telepon atau email.",
     "What is \"Customer-Liable Pallet\"?": "Apa itu \"Customer-Liable Pallet\"?",
     "Customer-Liable Pallets are the total number of pallets currently chargeable to your account. This includes pallets in your on-hand inventory and pallets delivered to your customers that are still within the agreed liability transition period.": "\"Customer-Liable Pallet\" adalah total jumlah pallet yang saat ini masih menjadi tanggungan akun Anda. Ini termasuk pallet yang ada di stok Anda serta pallet yang telah dikirim ke customer namun masih dalam periode tanggungan yang disepakati.",
-
-
     "Comment_Help_Glossary": "Help Glossary Tab",
     "Logistics Terminology Glossary": "Glosarium Istilah Logistik",
     "DN (Delivery Note)": "DN (Surat Jalan)",
@@ -1580,7 +1476,6 @@
     "A metric indicating how many days the current inventory will last based on average daily usage.": "Metrik yang menunjukkan berapa hari inventaris saat ini akan bertahan berdasarkan penggunaan harian rata-rata.",
     "A third-party provider that handles the transportation and delivery of pallets between locations.": "Penyedia pihak ketiga yang menangani transportasi dan pengiriman palet antar lokasi.",
     "A contract between parties outlining the terms of pallet rental, including quantities, pricing, and liability periods.": "Kontrak antara pihak-pihak yang menjelaskan syarat sewa palet, termasuk jumlah, harga, dan periode tanggung jawab.",
-
     "Welcome": "Selamat Datang",
     "Your Pal for Pallet Pooling": "Teman Anda untuk Pallet Pooling",
     "Powering Pallet Networks.": "Menggerakkan Jaringan Palet.",
@@ -1649,5 +1544,20 @@
     "Your data is handled securely": "Data Anda ditangani dengan aman",
     "Back to Login": "Kembali ke Login",
     "success_header": "Anda sudah terdaftar! Sampai jumpa, Pal.",
-    "success_subheader": "Terima kasih atas minat Anda terhadap Yanapal."
+    "success_subheader": "Terima kasih atas minat Anda terhadap Yanapal.",
+    "Penalty Details": "Detail Denda",
+    "Manage customer liable and penalty amount": "Kelola customer liable dan nominal denda",
+    "Penalty Information": "Informasi Denda",
+    "Penalty No": "No Denda",
+    "Penalty Qty": "Qty Denda",
+    "Contract": "Kontrak",
+    "Total Price": "Total Harga",
+    "Options are taken from the current customer and related customers in ytbpbhdr/ytbpbdtl tables.": "Pilihan diambil dari customer saat ini dan customer terkait pada tabel ytbpbhdr/ytbpbdtl.",
+    "Component Legend": "Legenda Komponen",
+    "Reject at Receiver": "Reject di Penerima",
+    "Missing at Receiver": "Kurang di Penerima",
+    "Reject@Receiver": "Reject@Penerima",
+    "Missing@Receiver": "Kurang@Penerima",
+    "Edit Customer Liable": "Ubah Customer Liable",
+    "Customer Liable": "Customer Liable"
 }
