@@ -54,12 +54,33 @@ class DendaController extends Controller
             ->orderByDesc('d.nidenda')
             ->get();
 
+        $dendaJson = $dendaList->map(function ($item) {
+            $totalAmount  = (float) ($item->njmldenda ?? 0);
+            $paidAmount   = (float) ($item->njmlbyr ?? 0);
+            $outstanding  = max($totalAmount - $paidAmount, 0);
+
+            return [
+                'id'             => (int) $item->nidenda,
+                'penalty_number' => 'DND-' . str_pad((string) $item->nidenda, 6, '0', STR_PAD_LEFT),
+                'customer'       => $item->cnmcust,
+                'penalty_type'   => $item->cjenis,
+                'issue_date'     => $item->dtglterbit,
+                'due_date'       => $item->dtgljatuh,
+                'reference'      => $item->cnoreferensi,
+                'total_amount'   => $totalAmount,
+                'paid_amount'    => $paidAmount,
+                'outstanding'    => $outstanding,
+                'status'         => $item->cstatus,
+            ];
+        })->values();
+
         return view('finance.penalty.index', compact(
             'totalDenda',
             'totalOutstandingDenda',
             'totalDendaPaid',
             'totalDendaWaived',
             'dendaList',
+            'dendaJson',
         ));
     }
 
